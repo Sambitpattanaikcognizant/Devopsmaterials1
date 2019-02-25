@@ -1,0 +1,60 @@
+ tree
+    2  which tree
+    3  rpm -qa | grep tree
+    4  ls
+    5  ls -lrt
+    6  ssh-keygen -t rsa
+    7  cat /root/.ssh/id_rsa.pub
+    8  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCruVFZtA9qFx62x3gfAAdFPHhFUv2EEXLkMEY5FzBBAGAUufugv96uJd1tPP1N+wbZEURKZe+juwzkmbkZzU0T376ZkvuH1wyWpzsl28x3VImwru4M1OgEaiAV2klvQW/6ek5/jtuou0uRzLIt0a0Z03mSV1XR8wwI47VcoNjQ6qZACZLw+x9Vber9UuDqwHvvTW1idQzFzNN/rqe9BaYHyBFG0y1KldejFk5KRjBxGcsLKnzNPo25WXOFJQ42VaBIzY55dZckNKku9VAE+cRTcsPkWMtVE/rhhfmVnxBh27FG6572U6hKrXqAhg7FTVM/dfDcC0wZCPxwp1aq5J61
+    9  pwd
+   10  ls -lrt
+   11  pwd
+   12  cd .ssh
+   13  ls
+   14  ls -lrt
+   15  cat id_rsa.pub
+   16  pwd
+   17  ls -lrt
+   18  vi id_rsa.pub
+   19  ssh root@172.31.18.169
+   20  clear
+   21  ssh root @172.31.18.169
+   22  ssh root@172.31.18.169
+   23  hostname
+   24  clear
+   25  ssh root@172.31.18.169
+   26  clear
+   27  ssh root@172.31.18.169
+   28  exit
+   29  pwd
+   30  yum install tree -y
+   31  tree
+   32  history
+   33  tree
+   34  which tree
+   35  rpm -qa | grep tree
+   36  cd ..ssh
+   37  cd /.ssh
+   38  pwd
+   39  cd .ssh
+   40  ls
+   41  ls -lrt
+   42  cd /opt
+   43  ls
+   44  mkdir -p /opt/Devopsmaterial && cd /opt/Devopsmaterial/
+   45  ls
+   46  git init
+   47  yum install git
+   48  yum init
+   49  git init
+   50  cat linuxcommands1_second machine.txt
+   51  touch linuxcommands1_second_machine.txt
+   52  git status
+   53  git add linuxcommands1_second_machine.txt
+   54  git status
+   55  git commit -m"my first commit"
+   56  git status
+   57  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+   58  git push -u origin master
+   59  history
+
