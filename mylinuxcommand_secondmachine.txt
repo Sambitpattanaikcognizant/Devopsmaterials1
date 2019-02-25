@@ -154,4 +154,28 @@ tree
   154  history
   155  vi linuxcommand_secondm.txt
   156  ls
+ rm linuxcommand_secondm.txt
+  158  vi linuxcommand_secondm.txt
+  159  history
+  160  vi mylinuxcommand_secondmachine.txt
+  161  ls -lrt
+  162  git init
+  163  git status
+  164  git add mylinuxcommand_secondmachine.txt
+  165  git commit -m "first commit"
+  166  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  167  git push -u origin master
+  168  history | grep git
+  169  vi gitcommands.txt
+  170  git add gitcommands.txt
+  171  git status
+  172  git add gitcommands.txt
+  173  git commit -m"my git commands"
+  174  git history
+  175  git --help
+  176  git log
+  177  git status
+  178  git push origin master
+  179  vi mylinuxcommand_secondmachine.txt
+  180  history
 
