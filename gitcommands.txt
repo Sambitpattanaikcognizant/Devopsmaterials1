@@ -1,0 +1,60 @@
+git init
+   47  yum install git
+   49  git init
+   52  git status
+   53  git add linuxcommands1_second_machine.txt
+   54  git status
+   55  git commit -m"my first commit"
+   56  git status
+   57  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+   58  git push -u origin master
+   63  git init
+   64  git add linuxcommands1_second_machine.txt
+   65  git commit -m"my first commit"
+   66  git status
+   67  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+   68  git push -u origin master
+   69  git add linuxcommands1_second_machine.txt
+   70  git commit -m"my first commit"
+   71  git commit -m"my second commit"
+   72  git push -u origin master
+   73  man git pull
+   75  man git
+   77  git pull
+   79  git add linuxcommands1_second_machine.txt
+   80  git commit -m"my second commit"
+   81  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+   82  git push -u origin master
+   83  git pull
+   84  git push
+   85  git fetch
+   86  git push -u origin master
+   98  git init
+   99  git status
+  100  git add linuxcommand_secondm.txt
+  101  git status
+  102  git commit -m"new file added"
+  103  git status.
+  104  git status
+  105  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial
+  106  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  107  git push -u origin master
+  113  git init
+  114  git add linuxcommand_secondm.txt
+  115  git commit -m "first commit"
+  116  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  117  git push -u origin master
+  146  git init
+  147  git add linuxcommand_secondm.txt
+  148  git status
+  149  git commit -m" my second commit"
+  150  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  151  git push -u origin master
+  162  git init
+  163  git status
+  164  git add mylinuxcommand_secondmachine.txt
+  165  git commit -m "first commit"
+  166  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  167  git push -u origin master
+  168  history | grep git
+
