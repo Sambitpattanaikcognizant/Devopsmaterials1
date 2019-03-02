@@ -1,0 +1,14 @@
+
+
+ git init
+   55  yum install git -y ----  Install git RPM using Yum command 
+   58  git init ---- initialize the directory as local repo 
+   67  git status
+   68  git add linuxcommands.txt ---- add your all command line text file to local repository commit area 
+   69  git status
+   71  git commit -m"my first commit" -------- this command will tell the commit to repository area
+   72  git status
+   73  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git ----- add your repository orgin to local repository 
+   74  git push -u origin master ---- push your local command line to the cloud git 
+   85  history | grep git
+

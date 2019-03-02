@@ -1,0 +1,103 @@
+  pwd
+    3  yum install tree -y
+    4  tree
+    5  whichc tree
+    6  which tree
+    7  rpm -qa | grep tree
+    8  pwd
+    9  L
+   10  cd /root/.ssh/
+   11  pwd
+   12  ls
+   13  ls -llrt
+   14  pwd
+   15  ls -lrt
+   16  vi authorized_keys
+   17  ls -ltr
+   18  cat authorized_keys
+   19  pwd
+   20  cd /
+   21  pwd
+   22  cd /opt
+   23  pwd
+   24  vi sam
+   25  pwd
+   26  ls
+   27  cat sam
+   28  vi sam
+   29  ls
+   30  vi sam
+   31  cat sam
+   32  vi sam
+   33  L
+   34  pwd
+   35  cd /root/.ssh/
+   36  ls
+   37  ls -lrt
+   38  cat authorized_keys
+   39  pwd
+   40  cd /opt
+   41  ls
+   42  clear
+   43  mkdir Devopsmaterial
+   44  rm Devopsmaterial/
+   45  rm -rf Devopsmaterial/
+   46  ls -lrt
+   47  cd /
+   48  clear
+   49  mkdir -p /opt/Devopsmaterial
+   50  pwd
+   51  owd
+   52  pwd
+   53  mkdir -p /opt/Devopsmaterial && cd /opt/Devopsmaterial/
+   54  pwd
+   55  git init
+   56  yum install git
+   57  yum init
+   58  clear
+   59  git init
+   60  history
+   61  vi linuxcommands.txt
+   62  ls
+   63  cat linuxcommands.txt
+   64  :q!
+   65  clear
+   66  ls
+   67  pwd
+   68  git status
+   69  git add linuxcommands.txt
+   70  git status
+   71  clear
+   72  git commit -m"my first commit"
+   73  git status
+   74  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+   75  git push -u origin master
+   76  history
+   77  pwd
+   78  ls
+   79  vi linuxcommands.txt
+   80  history
+   81  vi linuxcommands.txt
+   82  vi linuxcommands.txt
+   83  history
+   84  vi linuxcommands.txt
+   85  clear
+   86  history | grep git
+   87  vi gitcommands.txt
+   88  pwd
+   89  ls -lrt
+   90  git add gitcommands.txt
+   91  git status
+   92  git add gitcommands.txt
+   93  git commit -m"my git commands"
+   94  git history
+   95  git --help
+   96  git log
+   97  git status
+   98  git push origin master
+   99  pwd
+  100  exit
+  101  pwd
+  102  exit
+  103  history
+ 
