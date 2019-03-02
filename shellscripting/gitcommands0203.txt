@@ -1,0 +1,134 @@
+ git init
+   47  yum install git
+   49  git init
+   52  git status
+   53  git add linuxcommands1_second_machine.txt
+   54  git status
+   55  git commit -m"my first commit"
+   56  git status
+   57  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+   58  git push -u origin master
+   63  git init
+   64  git add linuxcommands1_second_machine.txt
+   65  git commit -m"my first commit"
+   66  git status
+   67  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+   68  git push -u origin master
+   69  git add linuxcommands1_second_machine.txt
+   70  git commit -m"my first commit"
+   71  git commit -m"my second commit"
+   72  git push -u origin master
+   73  man git pull
+   75  man git
+   77  git pull
+   79  git add linuxcommands1_second_machine.txt
+   80  git commit -m"my second commit"
+   81  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+   82  git push -u origin master
+   83  git pull
+   84  git push
+   85  git fetch
+   86  git push -u origin master
+   98  git init
+   99  git status
+  100  git add linuxcommand_secondm.txt
+  101  git status
+  102  git commit -m"new file added"
+  103  git status.
+  104  git status
+  105  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial
+  106  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  107  git push -u origin master
+  113  git init
+  114  git add linuxcommand_secondm.txt
+  115  git commit -m "first commit"
+  116  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  117  git push -u origin master
+  146  git init
+  147  git add linuxcommand_secondm.txt
+  148  git status
+  149  git commit -m" my second commit"
+  150  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  151  git push -u origin master
+  162  git init
+  163  git status
+  164  git add mylinuxcommand_secondmachine.txt
+  165  git commit -m "first commit"
+  166  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  167  git push -u origin master
+  168  history | grep git
+  169  vi gitcommands.txt
+  170  git add gitcommands.txt
+  171  git status
+  172  git add gitcommands.txt
+  173  git commit -m"my git commands"
+  174  git history
+  175  git --help
+  176  git log
+  177  git status
+  178  git push origin master
+  183  git push -u origin master
+  184  git add mylinuxcommand_secondmachine.txt
+  185  git commit -m "first commit"
+  186  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  187  git push -u origin master
+  201  git clone https://github.com/Sambitpattanaikcognizant/shellscripts.git
+  203  https://github.com/Sambitpattanaikcognizant/shellscripts.git
+  204  gitcone https://github.com/Sambitpattanaikcognizant/shellscripts.git
+  205  git clonw
+  206  git clone
+  207  gitcone https://github.com/Sambitpattanaikcognizant/shellscripts.git
+  210  gitcone https://github.com/Sambitpattanaikcognizant/shellscripts.git
+  211  git status
+  213  git clone https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  217  git status
+  253  git clone
+  254  git cloen
+  255  git clone
+  256  git clone https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  263  rm -rf https://github.com/Sambitpattanaikcognizant/Devopsmaterial.githttps://github.com/Sambitpattanaikcognizan
+  269  git clone https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  328  git init
+  329  git status
+  330  git commit -m"my first shell scripts"
+  331  git push -u origin
+  332  git push -u origin master
+  334  git remote  add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  335  git add shellscripting
+  337  git init
+  338  https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  340  git init
+  341  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  342  git add shellscripting/
+  344  git push -u origin master
+  345  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  346  git push -u origin master
+  358  github status
+  359  github init
+  390  github status
+  392  github status
+  440  git status
+  441  git init
+  444  git status
+  445  git init
+  446  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterial.git
+  447  git add shellscripting*
+  448  git add
+  449  git add shellscripting/
+  450  git status
+  451  git remote add origin
+  452  git remote add origin
+  453  git status
+  454  git init
+  456  git add shellscripting
+  457  git push -u origin master
+  458  git push
+  464  cd git push -u origin master git push -u origin m
+  465  cd git push -u origin master git push -u origin master
+  486  git init
+  487  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  491  git remote add origin https://github.com/Sambitpattanaikcognizant/Devopsmaterials1.git
+  492  git add shellscripting
+  493  git commit -m"My first shell scripting"
+  494  git push -u origin master
+
