@@ -15,11 +15,11 @@ usage() {
 }
 
 # Make sure the script is not being executed with superuser privileges.
-if [[ "${UID}" -eq 0 ]]
-then
-  echo 'Do not execute this script as root. Use the -s option instead.' >&2
-  usage
-fi
+#if [[ "${UID}" -eq 0 ]]
+#then
+  #echo 'Do not execute this script as root. Use the -s option instead.' >&2
+  #usage
+#fi
 
 # Parse the options.
 while getopts f:nsv OPTION
